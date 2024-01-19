@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜>! 
+<!--     <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="1px">  -->
+  </h2>
+</div>
 
-<!--
-**ridz2516/ridz2516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
 
-Here are some ideas to get you started:
+  <h3> 👨‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🎓 &nbsp; Studied Computer Science from National University of Computer and Emerging Science.
+ 
+  <h3>🛠 Tech Stack</h3>
+  
+  - 💻 &nbsp; C# | Unity | Git
+  - 📈 &nbsp; Firebase | Photon Multiplayer
+
+  
+</div>
