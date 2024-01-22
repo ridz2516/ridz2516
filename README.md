@@ -8,12 +8,14 @@
 
   <h3> 👨‍💻 About Me </h3>
 
+  - 🕹️ &nbsp; I have an experience 
   - 🎓 &nbsp; Studied Computer Science from National University of Computer and Emerging Science.
  
   <h3>🛠 Tech Stack</h3>
   
   - 💻 &nbsp; C# | Unity | Git
   - 📈 &nbsp; Firebase | Photon Multiplayer
+  - 🔬 &nbsp; TDD | NUnit | Mock
 
   
 </div>
