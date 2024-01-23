@@ -7,7 +7,7 @@
 
   <h3> 👨‍💻 About Me </h3>
 
-  - 🚀 &nbsp; Navigated the realms of game development for 7 adventurous years.
+  - 🚀 &nbsp; Over 7 years of experience in the mobile gaming industry.
   - 🎓 &nbsp; Graduated in Computer Science from the National University of Computer and Emerging Science.
   - 🎮 &nbsp; Mastered the art of game creation in Unity and Unreal, with Unity being my playground of choice.
   
