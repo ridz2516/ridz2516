@@ -1,8 +1,7 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 </div>
-
-
+  
 <div align="left">
 
   <h3> 👨‍💻 About Me </h3>
@@ -14,7 +13,9 @@
   <h3>🛠 Tech Stack</h3>
   
   - 💻 &nbsp; C# | Unity | Git
-  - 📈 &nbsp; Firebase | Photon Multiplayer
+  - 📈 &nbsp; Firebase | Photon Multiplayer | AR/VR Development with Vuforia | Unity ECS Architecture and Jobs
   - 🔬 &nbsp; TDD | NUnit | Mock
+  - 💪🏼 &nbsp; Zenject | VContainer | Design Patterns for Modular Code
+  - 🎨 &nbsp; Figma | Trello
 
 </div>
